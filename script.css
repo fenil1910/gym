@@ -1,0 +1,131 @@
+    /* .g2 {
+      min-height: 72vh;
+      background-color: black;
+      color: rgb(171, 166, 166);
+      font-family: 'Varela Round', sans-serif;
+      display: flex;
+      margin: 23px auto;
+      width: 70%;
+      border-radius: 12px;
+      padding: 34px;
+      background-image: url('g3.jpg');
+  } */
+    /* .main {
+      background-image: url('g5.jpg');
+       height: 650px;
+      width: 1850px; 
+  
+  background-repeat: no-repeat;
+}
+*/
+    
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    ul {
+        padding: 15px;
+    }
+    
+    li {
+        list-style: none;
+        display: inline;
+        padding: 0 34px;
+    }
+    
+    nav {
+        display: flex;
+        background-color: rgb(39, 50, 68);
+        height: 50px;
+        width: 1517px;
+        /* text-align: top; */
+        padding-top: 1px;
+        padding-left: 1px;
+        padding-bottom: 1px;
+        /* border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px; */
+        color: antiquewhite;
+    }
+    
+    header {
+        position: fixed;
+    }
+    
+    h1 {
+        padding: 10px;
+        word-spacing: 1px;
+    }
+    
+    h2 {
+        color: rgb(238, 240, 216)
+    }
+    
+    h4 {
+        padding: 50px;
+        word-spacing: 5px;
+        text-align: start;
+        padding-top: 250px;
+        color: rgb(0, 0, 0);
+    }
+    /*h4*/
+    
+    .hh4 {
+        text-align: right;
+        text-transform: uppercase;
+        display: inline;
+        padding-left: 650px;
+    }
+    /* select {
+        background-color: rgb(39, 50, 68);
+        color: whitesmoke;
+    } */
+    /*h4*/
+    
+    .hh4 a {
+        text-decoration: none;
+        color: white;
+    }
+    
+    .gym {
+        text-align: right;
+    }
+    
+    .main {
+        height: 700px;
+        width: 1515px;
+        background-image: url('g5.jpg');
+        background-size: cover;
+        border: 2px solid black;
+        /* border-radius: 5px; */
+    }
+    
+    body {
+        background-color: rgb(236, 232, 225);
+    }
+    
+    footer {
+        background-color: rgb(245, 237, 226);
+        border: 1px solid black;
+        /* border-radius: 10px; */
+        text-align: center;
+    }
+    
+    .sec img {
+        /* background-image: url('g3.jpg'); */
+        width: 350px;
+        height: 200px;
+        border: 2px solid black;
+        border-radius: 20px;
+        display: inline-block;
+    }
+    
+    .fpic img {
+        display: inline-block;
+        /* background-image: url('g3.jpg'); */
+        width: 350px;
+        height: 200px;
+        border: 2px solid black;
+        border-radius: 20px;
+        align-content: end;
+    }
